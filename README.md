@@ -6,17 +6,17 @@
 
 # Skills
 <div style="display:flex; flex-direction:row;"> 
- <img src="https://nicofal23.github.io/gif/assets/img/javascript.png" width="200" height="200">
- <img src="https://nicofal23.github.io/gif/assets/img/react.png" width="200" height="200">
- <img src="https://nicofal23.github.io/gif/assets/img/sass.png" width="200" height="200">
- <img src="https://nicofal23.github.io/gif/assets/img/Tailwind.png" width="200" height="200">
- <img src="https://nicofal23.github.io/gif/assets/img/vite.png" width="200" height="200"> 
+ <img src="https://nicofal23.github.io/gif/assets/img/javascript.png" width="100" height="100">
+ <img src="https://nicofal23.github.io/gif/assets/img/react.png" width="100" height="100">
+ <img src="https://nicofal23.github.io/gif/assets/img/sass.png" width="100" height="100">
+ <img src="https://nicofal23.github.io/gif/assets/img/Tailwind.png" width="100" height="100">
+ <img src="https://nicofal23.github.io/gif/assets/img/vite.png" width="100" height="100"> 
 </div>
 <div style="display:flex; flex-direction:row;"> 
- <img src="https://nicofal23.github.io/gif/assets/img/html-5.png" width="200" height="200">
- <img src="https://nicofal23.github.io/gif/assets/img/bootstrap.png" width="200" height="200">
- <img src="https://nicofal23.github.io/gif/assets/img/css.png" width="200" height="200">
- <img src="https://nicofal23.github.io/gif/assets/img/git.png" width="200" height="200">
+ <img src="https://nicofal23.github.io/gif/assets/img/html-5.png" width="100" height="100">
+ <img src="https://nicofal23.github.io/gif/assets/img/bootstrap.png" width="100" height="100">
+ <img src="https://nicofal23.github.io/gif/assets/img/css.png" width="100" height="100">
+ <img src="https://nicofal23.github.io/gif/assets/img/git.png" width="100" height="100">
 </div>
 
 # My certifications
