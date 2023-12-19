@@ -20,8 +20,12 @@
 </div>
 
 # My certifications
+
+<img src="https://i.ibb.co/vV8VYYz/certificado-carrera.png" alt="CertificacionFrontend" width="500" height="400">
 <img src="https://i.ibb.co/0My5mmn/64da77a3b1d139f3fc700b61-2.png" alt="Certificadodesarrollo eb" width="500" height="400">
 <img src="https://i.ibb.co/ggK6Rt5/coder.png"  alt="CertificacionJavaScript" width="500" height="400">
+<img src="https://i.ibb.co/WtB6mHD/certificado-curso.png"  alt="CertificacionReactJs" width="500" height="400">
+
 <!---
 nicofal23/nicofal23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
