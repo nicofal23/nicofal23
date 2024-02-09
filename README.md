@@ -17,6 +17,7 @@
  <img src="https://nicofal23.github.io/gif/assets/img/bootstrap.png" width="60" height="60">
  <img src="https://nicofal23.github.io/gif/assets/img/css.png" width="60" height="60">
  <img src="https://nicofal23.github.io/gif/assets/img/git.png" width="60" height="60">
+ <img src="https://i.ibb.co/wyC8Zwg/descarga.png" width="60" height="60">
 </div>
 
 # My certifications
